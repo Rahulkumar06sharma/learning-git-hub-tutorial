@@ -1,2 +1,2 @@
 # learning-git-hub-tutorial
- Breif  learning of the git hub
+ Breif  learning of the git hub tutorail.
